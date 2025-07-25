@@ -16,6 +16,7 @@ This project collects and merges data from multiple APIs (start.gg and challonge
 
 - Python
 - Pandas
+- GraphQL
 
 ## Getting Started
 
@@ -39,6 +40,7 @@ This project collects and merges data from multiple APIs (start.gg and challonge
 
 - [start.gg](https://start.gg)
 - [Challonge](https://challonge.com)
+- [ARMS Wiki](https://armswiki.org/wiki/EU_ARMS_Challenge)
 
 ## About EUAC
 
