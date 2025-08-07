@@ -43,7 +43,7 @@ The files included:
     ```
     - Start with `EUAC - Data Collection.ipynb`
     - Then explore `EUAC - Data Cleaning.ipynb`
-    - Finally, run `EUAC = Data Analysis.ipynb`
+    - Finally, run `EUAC - Data Analysis.ipynb`
   
 ## 📉 Disclaimer
 
