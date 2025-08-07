@@ -13,7 +13,7 @@ The files included:
 **EUAC - Data Cleaning:** How the data was cleaned. This includes stuff like data types and dealing with player account inconsistencies between the two APIs.  
 **EUAC - Data Analysis:** Data visualisations, statistical information and tests, and general analysis. Tournament tidbits. Some unsupervised machine learning (K-Means clustering) to group players into tiers. Creation of an Elo system to rank player strength.  
   
-**elo.py:** A .py file to contain the functions necessary for Elo calculations. Written by me.  
+**elo.py:** A .py file to contain the functions necessary for Elo calculations. Specifically written for this project. 
 
 ### Features
 
