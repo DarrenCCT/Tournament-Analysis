@@ -5,11 +5,11 @@ EUAC (European ARMS Competitive) is a video game tournament series for the Ninte
 ## Project Overview
 
 This project collects and merges data from multiple APIs (start.gg and challonge.com), engineering tournament data for further analysis and insights.
-There are currently three notebook in the EUAC series: Data Collection, Data Cleaning, and Data Analysis. And also one .py file.
+There are currently three notebook in the EUAC series: Data Collection, Data Cleaning, and Data Analysis. Also one .py file.
 
 The files included:
 
-**EUAC - Data Collection:** Showing how the data was gathered and merged into one dataframe from the two APIs. It also demonstrates how any roadblocks were dealt it. (such as tournament urls that were not crawlable by bots).  
+**EUAC - Data Collection:** Showing how the data was gathered and merged into one dataframe from the two APIs. It also demonstrates how any roadblocks were dealt it (such as tournament urls that were not crawlable by bots).  
   
 **EUAC - Data Cleaning:** How the data was cleaned. This includes stuff like data types and dealing with player account inconsistencies between the two APIs. 
   
