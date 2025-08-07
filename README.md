@@ -27,7 +27,7 @@ This project collects and merges data from multiple APIs (start.gg and challonge
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Yamber/EUAC.git
+   git clone https://github.com/DarrenCCT/EUAC.git
    cd EUAC
    ```
 
