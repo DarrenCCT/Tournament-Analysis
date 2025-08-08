@@ -1,4 +1,4 @@
-# EUAC Data Analytics (In-Progress)
+# Tournament Data Analytics (In-Progress)
 
 EUAC (European ARMS Competitive) is a video game tournament series for the Nintendo Switch game ARMS. This project is a Python-based data analytics toolset designed to gather, process, and analyse tournament, match, and player data from the EUAC events.
 
@@ -53,7 +53,6 @@ The files included:
 
 - [start.gg](https://start.gg)
 - [Challonge](https://challonge.com)
-- [ARMS Wiki](https://armswiki.org/wiki/EU_ARMS_Challenge)
 
 ## About EUAC
 
